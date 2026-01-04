@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CheeseWheel27
+- 👋 Hi, I’m @Persimonk
 - 👀 I’m interested in ... machine learning, video and image editing, 3D modelling, little game programming and other small little interesting things
 - 🌱 I’m currently learning ... machine learning, python and ruby
 - 💞️ I’m looking to collaborate on ... nothing. leave me alone.
